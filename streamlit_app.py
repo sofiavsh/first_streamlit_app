@@ -47,7 +47,6 @@ except URLError as e:
 
 
 #dont run anything past here while we trouble shoot
-streamlit.stop()
 
 
 streamlit.header("The fruit load list contains")
